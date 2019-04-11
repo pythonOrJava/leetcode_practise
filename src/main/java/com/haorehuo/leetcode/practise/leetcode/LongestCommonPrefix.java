@@ -1,5 +1,8 @@
 package com.haorehuo.leetcode.practise.leetcode;
 
+/***
+ * 查询一个字符数组的前缀
+ */
 public class LongestCommonPrefix {
 
     public static void main(String[] args) {

@@ -2,10 +2,11 @@ package com.haorehuo.leetcode.practise.leetcode;
 
 import java.util.Arrays;
 
+/**
+ * 是否是回数
+ */
 public class isPalindrome {
 
-
-    public static Integer[] arr = {1,2,7,9,0};
 
     public static void main(String[] args) {
        boolean flag = getPalindrome(121);

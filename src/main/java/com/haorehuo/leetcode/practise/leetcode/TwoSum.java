@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 /***
- * 描述：
+ * 描述：俩个元素求和等于传入的数据
  *
  */
 public class TwoSum {
